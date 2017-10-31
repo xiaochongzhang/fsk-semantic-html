@@ -8,6 +8,6 @@
 
 ### 练习Mockup：
 
-![Practice 1](docs/practice01.png)   
-![Practice 2](docs/practice02.jpg)
+![Practice 1](docs/Practice01.png)   
+![Practice 2](docs/Practice02.jpg)
 
