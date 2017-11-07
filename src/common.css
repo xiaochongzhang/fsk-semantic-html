@@ -1,0 +1,100 @@
+body {
+    text-align: center;
+}
+
+header {
+    background: url("sleepy-cat.jpg");
+}
+
+header {
+    color: white;
+}
+
+section {
+    padding: 40px 180px;
+    border-bottom: solid 1px gray;
+}
+
+footer {
+    padding: 40px 180px;
+}
+
+p {
+    font-size: 14px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-item {
+    width: 150px;
+}
+
+.description-title-one {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.description-title-two {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.font-img {
+    width: 60px;
+    height: 41px;
+}
+
+.logo-img {
+    width: 20px;
+    height: 15px;
+}
+
+.action-group {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.action-group-item + .action-group-item {
+    margin-left: 20px;
+}
+
+.table {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.table-item {
+    display: flex;
+    width: 400px;
+}
+.table-item-description {
+    margin-left: 20px;
+    text-align: left;
+}
+
+.horizontal-list {
+    display: flex;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.out-link {
+    display: flex;
+    justify-content: space-between;
+}
+.horizontal-list-item + .horizontal-list-item {
+    margin-left: 10px;
+}
